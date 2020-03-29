@@ -215,7 +215,7 @@ a:hover {
 }
 
 .section {
-  padding-top: 50px;
+  padding-top: 150px;
   padding-bottom: 50px;
 }
 
@@ -225,6 +225,11 @@ a:hover {
   
   font-family: "BwNistaInt-xBd";
   color: #847180;
+}
+.skills .section-title{
+  padding-top: 0px;
+  margin-top: -50px;
+
 }
 
 
